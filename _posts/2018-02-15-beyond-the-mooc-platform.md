@@ -1,7 +1,9 @@
 ---
-layout: post
-title: Beyond the MOOC platform
-thumbnail: "/img/og_beyond.png"
+title: "Beyond the MOOC platform"
+#author: "LaminJ"
+date: "February 25, 2018"
+output: html_document
+#thumbnail: "/img/og_beyond.png"
 ---
 In the past years, we have been heavily relying on social media for research purposes (like many other research groups)
 and by now it is very clear that we can learn *a lot* about people from the digital footprints they leave behind across the social Web.
