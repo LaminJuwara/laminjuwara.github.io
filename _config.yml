@@ -29,9 +29,12 @@ navbar-links:
     - Virtual pooling: "pooling01" 	
 
   Resources:
+    - ML algorithms: "https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/"
+    - QLS at McGill: "https://www.mcgill.ca/qls/"
+    - QLS at ICTP: "https://www.ictp.it/research/qls.aspx"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
-    - ML algorithms: "https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/"
+
   Author's home: "https://laminjuwara.github.io/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
