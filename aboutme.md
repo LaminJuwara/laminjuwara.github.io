@@ -7,7 +7,8 @@ layout: page
 <style type="text/css">
 
 body{ /* Normal  */
-      font-size: 15px;
+      font-size: 20px;
+      font-family: "Times New Roman", Times, serif;
   }
 td {  /* Table  */
   font-size: 8px;
@@ -25,7 +26,7 @@ h2 { /* Header 2 */
   color: DarkBlue;
 }
 h3 { /* Header 3 */
-  font-size: 20px;
+  font-size: 24px;
   font-family: "Times New Roman", Times, serif;
   color: DarkBlue;
 }
