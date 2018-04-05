@@ -1,6 +1,9 @@
 My name is Lamin Juwara. I am second year student in the biostatistic program at McGill  working on privacy preserving data analysis under the supervisions of  [Dr Paramita Saha-Chaudhuri](https://sites.google.com/site/paramitasaharesearch/) and [Dr Alexandra M Schmidt](http://alex-schmidt.research.mcgill.ca/). Prior to mcgill, I studied at [AIMS](https://www.aims.ac.za/en/home)- Stellenbosch University (MSc Mathematics) under the supervision of [Dr Wilfred Ndifon](https://scholar.google.com/citations?user=T7leliwAAAAJ&hl=en) and the Kwame Nkrumah University of Science and Tech, Ghana (BSc Mathematics).
 
-
+<table class="table table-hover">
+  <tr>
+  </tr>
+</table>
 
 
 ## <i class="fa fa-chevron-right"></i> News
@@ -19,7 +22,7 @@ My name is Lamin Juwara. I am second year student in the biostatistic program at
 </tr>
 <tr>
   <td class='col-md-3'>May 2017</td>
-  <td>I am interning at <a href='http://www.sacema.org/'> The South African Centre for Epidemiological Modelling and Analysis.</a> in Stellenbosch this summer with <a href='http://www.sacema.org/people/staff'>Prof Alex Welta</a>.</td>
+  <td>I am interning at the South African Centre for Epidemiological Modelling and Analysis<a href='http://www.sacema.org/'> (SACEMA)</a> in Stellenbosch this summer with <a href='http://www.sacema.org/people/staff'>Prof Alex Welta</a>.</td>
 </tr>
 </table>
 
