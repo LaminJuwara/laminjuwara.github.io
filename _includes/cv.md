@@ -7,7 +7,11 @@ My name is Lamin Juwara. I am second year student in the biostatistic program at
 <table class="table table-hover">
 <tr>
   <td class='col-md-3'>April 2018</td>
-  <td>I will  present a poster ("Microaggregation as a Privacy-Preserving Analytical Tool for Analysis of Confidential Distributed Data") at the ISPE Mid-Year Meeting. <a href='https://www.pharmacoepi.org/meetings/mid-year-2018/'> Learning Awareness Models</a>.</td>
+  <td>I will  present a poster ("Microaggregation as a Privacy-Preserving Analytical Tool for Analysis of Confidential Distributed Data") at the <a href='https://www.pharmacoepi.org/meetings/mid-year-2018/'> ISPE Mid-Year Meeting.</a>.</td>
+</tr>
+<tr>
+  <td class='col-md-3'>Feb 2018</td>
+  <td> In Fall 2018, I will begin the PhD Quantitative Life Sciences at McGill :-)</td>
 </tr>
 <tr>
   <td class='col-md-3'>Feb 2018</td>
@@ -44,7 +48,7 @@ My name is Lamin Juwara. I am second year student in the biostatistic program at
     <td>
         <strong>B.Sc. in Mathematics (Hons)</strong>
         <br>
-      Kwame Nkrumah University of Science and Technology
+      Kwame Nkrumah University of Science and Technology, Ghana
     </td>
   </tr>
 
@@ -58,28 +62,28 @@ My name is Lamin Juwara. I am second year student in the biostatistic program at
 <tr>
   <td class='col-md-2'>2016-2018</td>
   <td>
-    MCF Scholar, McGill U
+    MCF Scholar, McGill University
     <!--  -->
   </td>
 </tr>
 <tr>
-  <td class='col-md-2'>2016</td>
+  <td class='col-md-2'>June 2016</td>
   <td>
-    The Martin Rees Scholarship
+    The Martin Rees Scholarship, [AIMS South Africa](https://www.aims.ac.za/en/home)
     <!--  -->
   </td>
 </tr>
 <tr>
-  <td class='col-md-2'>2015</td>
+  <td class='col-md-2'>August 2015</td>
   <td>
     African Institute for Mathematical Sciences MSc scholarship
     <!--  -->
   </td>
 </tr>
 <tr>
-  <td class='col-md-2'>2015</td>
+  <td class='col-md-2'>June 2015</td>
   <td>
-    Best graduating student, BSc Mathematics; Rank: 1/156
+    Best graduating student, BSc Mathematics [KNUST](https://www.knust.edu.gh/); Rank: 1/156
     <!--  -->
   </td>
 </tr>
@@ -118,7 +122,7 @@ Linux, Windows
 <tr>
 <td>
     <strong>Virtual Pooling as a Privacy-preserving Analysis Tool to Estimate
-Covariate Hazard Ratio (HR) of Cox Proportional Model</strong><br>
+Covariate Hazard Ratio (HR) of Cox Proportional Model. </strong><br>
     <strong>Lamin Juwara</strong> , Alexandra M Schmidt, PhD and Paramita Saha-Chaudhuri, PhD<br>
     EBOSS Research Day 2018<br>
     
