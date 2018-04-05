@@ -3,8 +3,8 @@
 # Original accessed in July 2015 by Simon Sigurdhsson.
 # https://github.com/urdh/blog/blob/gh-pages/validate.rb
 #
-# Modifications in July 2015 by Brandon Amos <http://bamos.github.io>.
-# https://github.com/bamos/bamos.github.io/blob/master/validate.rb
+# Modifications in April,2018 by Lamin Juwara <http://laminjuwara.github.io>.
+# https://github.com/laminjuwara/laminjuwara.github.io/blob/master/validate.rb
 
 require 'rubygems'
 require 'nokogiri'
