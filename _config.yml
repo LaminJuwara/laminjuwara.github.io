@@ -1,7 +1,6 @@
 name: Lamin Juwara
 url: http://laminjuwara.github.io
 destination: ./_site
-#twitter: brandondamos
 lsi: false
 port: 4000
 markdown: kramdown

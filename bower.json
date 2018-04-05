@@ -1,11 +1,10 @@
 {
-    "name": "bamos.github.io",
+    "name": "laminjuwara.github.io",
     "version": "0.0.0",
-    "homepage": "https://github.com/bamos/bamos.github.io",
+    "homepage": "https://github.com/LaminJuwara/laminjuwara.github.io",
     "authors": [
-        "Brandon Amos <bamos@cs.cmu.edu>"
+        "Lamin Juwara <lamin.juwara@mail.mcgill.ca>"
     ],
-    "license": "Apache",
     "ignore": [
         "**/.*",
         "bower_components"
