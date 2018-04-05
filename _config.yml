@@ -1,7 +1,7 @@
-name: Brandon Amos
-url: http://bamos.github.io
+name: Lamin Juwara
+url: http://laminjuwara.github.io
 destination: ./_site
-twitter: brandondamos
+#twitter: brandondamos
 lsi: false
 port: 4000
 markdown: kramdown
