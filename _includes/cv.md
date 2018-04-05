@@ -69,7 +69,7 @@ My name is Lamin Juwara. I am second year student in the biostatistic program at
 <tr>
   <td class='col-md-2'>June 2016</td>
   <td>
-    The Martin Rees Scholarship, [AIMS South Africa](https://www.aims.ac.za/en/home)
+    The Martin Rees Scholarship, <a href='https://www.aims.ac.za/en/home'>AIMS South Africa</a>
     <!--  -->
   </td>
 </tr>
@@ -83,7 +83,7 @@ My name is Lamin Juwara. I am second year student in the biostatistic program at
 <tr>
   <td class='col-md-2'>June 2015</td>
   <td>
-    Best graduating student, BSc Mathematics [KNUST](https://www.knust.edu.gh/); Rank: 1/156
+    Best graduating student, BSc Mathematics <a href='https://www.knust.edu.gh/'>KNUST</a>; Rank: 1/156
     <!--  -->
   </td>
 </tr>
