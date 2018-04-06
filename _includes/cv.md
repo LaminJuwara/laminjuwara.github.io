@@ -14,10 +14,6 @@ My name is Lamin Juwara. I am second year student in the biostatistic program at
 </tr>
 <tr>
   <td class='col-md-3'>Feb 2018</td>
-  <td> In Fall 2018, I will begin the PhD Quantitative Life Sciences program at McGill :-)</td>
-</tr>
-<tr>
-  <td class='col-md-3'>Feb 2018</td>
   <td> I presented a poster "Virtual Pooling as a Privacy-preserving Analysis Tool to Estimate Covariate Hazard Ratio (HR) of Cox Proportional Hazard Model" which won the best poster award at the EBOSS Research Day.</td>
 </tr>
 <tr>
@@ -63,7 +59,7 @@ My name is Lamin Juwara. I am second year student in the biostatistic program at
 ## <i class="fa fa-chevron-right"></i> Honors & Awards
 <table class="table table-hover">
 <tr>
-  <td class='col-md-2'>2016-2018</td>
+  <td class='col-md-2'>Aug 2016 - June 2018</td>
   <td>
     MCF Scholar, McGill University
     <!--  -->
@@ -118,24 +114,4 @@ Linux, Windows
 
 
 
-### Posters 
 
-<table class="table table-hover">
-
-<tr>
-<td>
-    <strong>Virtual Pooling as a Privacy-preserving Analysis Tool to Estimate
-Covariate Hazard Ratio (HR) of Cox Proportional Model. </strong><br>
-    <strong>Lamin Juwara</strong> , Alexandra M Schmidt, PhD and Paramita Saha-Chaudhuri, PhD<br>
-    EBOSS Research Day 2018<br>
-    
-
-    
-</td>
-</tr>
-
-
-
-
-
-</table>

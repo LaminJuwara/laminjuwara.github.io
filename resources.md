@@ -21,12 +21,10 @@ h1 { /* Header 1 */
 }
 h2 { /* Header 2 */
     font-size: 22px;
-  color: DarkBlue;
 }
 h3 { /* Header 3 */
   font-size: 20px;
   font-family: "Times New Roman", Times, serif;
-  color: DarkBlue;
 }
 code.r{ /* Code block */
     font-size: 12px;
@@ -44,6 +42,6 @@ pre { /* Code block - determines code spacing between lines */
     
   - [GitHub Pages](https://pages.github.com)
   
-### For fans of the beautiful game
+### Fans of the beautiful game?
 
   - [Real Madrid FC](https://www.realmadrid.com/en)
