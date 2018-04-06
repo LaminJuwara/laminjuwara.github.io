@@ -14,7 +14,7 @@ My name is Lamin Juwara. I am second year student in the biostatistic program at
 </tr>
 <tr>
   <td class='col-md-3'>Feb 2018</td>
-  <td> In Fall 2018, I will begin the PhD Quantitative Life Sciences at McGill :-)</td>
+  <td> In Fall 2018, I will begin the PhD Quantitative Life Sciences program at McGill :-)</td>
 </tr>
 <tr>
   <td class='col-md-3'>Feb 2018</td>
@@ -33,7 +33,7 @@ My name is Lamin Juwara. I am second year student in the biostatistic program at
   <tr>
     <td class="col-md-3">Aug 2016 - June 2018</td>
     <td>
-        <strong>MSc. in Biostatistics</strong>
+        <strong>MSc in Biostatistics</strong>
         <br>
       McGill University
     </td>
@@ -49,7 +49,7 @@ My name is Lamin Juwara. I am second year student in the biostatistic program at
   <tr>
     <td class="col-md-3">Aug 2011 - May 2015</td>
     <td>
-        <strong>B.Sc. in Mathematics (Hons)</strong>
+        <strong>BSc in Mathematics (Hons)</strong>
         <br>
       Kwame Nkrumah University of Science and Technology, Ghana
     </td>
@@ -79,14 +79,14 @@ My name is Lamin Juwara. I am second year student in the biostatistic program at
 <tr>
   <td class='col-md-2'>August 2015</td>
   <td>
-    African Institute for Mathematical Sciences MSc scholarship
+    African Institute for Mathematical Sciences postgraduate scholarship
     <!--  -->
   </td>
 </tr>
 <tr>
   <td class='col-md-2'>June 2015</td>
   <td>
-    Best graduating student, BSc Mathematics <a href='https://www.knust.edu.gh/'>KNUST</a>; Rank: 1/156
+    Best graduating student, BSc Mathematics 2015 -<a href='https://www.knust.edu.gh/'> KNUST</a> | Rank: 1/152
     <!--  -->
   </td>
 </tr>
