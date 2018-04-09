@@ -1,6 +1,3 @@
-
-## <i class="fa fa-chevron-right"></i> Short Bio
-
 My name is Lamin Juwara. I am second year student in the biostatistic program at McGill  working on privacy preserving data analysis under the supervisions of  [Dr Paramita Saha-Chaudhuri](https://sites.google.com/site/paramitasaharesearch/) and [Dr Alexandra M Schmidt](http://alex-schmidt.research.mcgill.ca/). Prior to mcgill, I studied at [AIMS](https://www.aims.ac.za/en/home)- Stellenbosch University (MSc Mathematics) under the supervision of [Dr Wilfred Ndifon](https://scholar.google.com/citations?user=T7leliwAAAAJ&hl=en) and the Kwame Nkrumah University of Science and Tech, Ghana (BSc Mathematics).
 
 <table class="table table-hover">
@@ -16,7 +13,7 @@ My name is Lamin Juwara. I am second year student in the biostatistic program at
   <td>I will  present a poster ("Microaggregation as a Privacy-Preserving Analytical Tool for Analysis of Confidential Distributed Data") at the <a href='https://www.pharmacoepi.org/meetings/mid-year-2018/'> ISPE Mid-Year Meeting.</a>.</td>
 </tr>
 <tr>
-  <td class='col-md-3'>March 2018</td>
+  <td class='col-md-3'>Feb 2018</td>
   <td> I presented a poster "Virtual Pooling as a Privacy-preserving Analysis Tool to Estimate Covariate Hazard Ratio (HR) of Cox Proportional Hazard Model" which won the best poster award at the EBOSS Research Day.</td>
 </tr>
 <tr>
@@ -57,6 +54,39 @@ My name is Lamin Juwara. I am second year student in the biostatistic program at
 </table>
 
 
+
+
+## <i class="fa fa-chevron-right"></i> Honors & Awards
+<table class="table table-hover">
+<tr>
+  <td class='col-md-2'>Aug 2016 - June 2018</td>
+  <td>
+    MCF Scholar, McGill University
+    <!--  -->
+  </td>
+</tr>
+<tr>
+  <td class='col-md-2'>June 2016</td>
+  <td>
+    The Martin Rees Scholarship, <a href='https://www.aims.ac.za/en/home'>AIMS South Africa</a>
+    <!--  -->
+  </td>
+</tr>
+<tr>
+  <td class='col-md-2'>August 2015</td>
+  <td>
+    African Institute for Mathematical Sciences postgraduate scholarship
+    <!--  -->
+  </td>
+</tr>
+<tr>
+  <td class='col-md-2'>June 2015</td>
+  <td>
+    Best graduating student, BSc Mathematics 2015 -<a href='https://www.knust.edu.gh/'> KNUST</a> | Rank: 1/152
+    <!--  -->
+  </td>
+</tr>
+</table>
 
 
 ## <i class="fa fa-chevron-right"></i> Skills
