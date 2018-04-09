@@ -40,9 +40,9 @@ pre { /* Code block - determines code spacing between lines */
   
   - [Combinatorics by Prof Stephan Wagner of SU ](http://math.sun.ac.za/~swagner/Strathmore.html)
   
-  - [Learn markdown](http://www.markdowntutorial.com)
-  
   - [Convex Optimization at CMU](http://www.stat.cmu.edu/~ryantibs/convexopt/)
+  
+  - [Learn markdown](http://www.markdowntutorial.com)
     
   
 ### For fans of the beautiful game
