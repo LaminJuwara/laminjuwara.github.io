@@ -12,6 +12,8 @@ permalink: pretty
 #paginate: 5
 gems:
   - jekyll-sitemap
+plugins:
+  - jekyll-seo-tag
 
 exclude:
   - .travis.yml
