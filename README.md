@@ -1,8 +1,5 @@
 
-# About
-Lamin Juwara's personal website
+# Ahh
 
-url: https://laminjuwara.github.io/
+This is where I huff and poff about personal things no body care about :-)
 
-
-# Reference
