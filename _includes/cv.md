@@ -1,7 +1,7 @@
 
 ## <i class="fa fa-chevron-right"></i> Short Bio
 
-My name is Lamin Juwara. I am second year student in the biostatistic program at McGill  working on privacy preserving data analysis under the supervisions of  [Dr Paramita Saha-Chaudhuri](https://sites.google.com/site/paramitasaharesearch/) and [Dr Alexandra M Schmidt](http://alex-schmidt.research.mcgill.ca/). Prior to mcgill, I studied at [AIMS](https://www.aims.ac.za/en/home)- Stellenbosch University (MSc Mathematics) under the supervision of [Dr Wilfred Ndifon](https://scholar.google.com/citations?user=T7leliwAAAAJ&hl=en) and the Kwame Nkrumah University of Science and Tech, Ghana (BSc Mathematics).
+My name is Lamin Juwara. I am second year student in the biostatistic program at McGill  working on privacy preserving data analysis under the supervisions of  [Dr Paramita Saha-Chaudhuri](https://sites.google.com/site/paramitasaharesearch/) and [Dr Alexandra M Schmidt](http://alex-schmidt.research.mcgill.ca/). Prior to mcgill, I studied at [AIMS](https://www.aims.ac.za/en/home)- Stellenbosch University (MSc Mathematics) under the supervision of [Dr Wilfred Ndifon](https://scholar.google.com/citations?user=T7leliwAAAAJ&hl=en) and the Kwame Nkrumah University of Science and Tech, Ghana (BSc Mathematics). I am ~~originally~~ from The Gambia and have lived ~~and studied~~ there until 2007.
 
 <table class="table table-hover">
   <tr>
@@ -32,7 +32,7 @@ My name is Lamin Juwara. I am second year student in the biostatistic program at
   <tr>
     <td class="col-md-3">Aug 2016 - June 2018</td>
     <td>
-        <strong>MSc in Biostatistics</strong>
+        <strong>MSc Biostatistics</strong>
         <br>
       McGill University
     </td>
@@ -40,7 +40,7 @@ My name is Lamin Juwara. I am second year student in the biostatistic program at
   <tr>
     <td class="col-md-3">Aug 2015 - May 2016</td>
     <td>
-        <strong>MSc in Mathematics Sciences</strong>
+        <strong>MSc Mathematics Sciences</strong>
         <br>
       AIMS South Africa, Stellenbosch University
     </td>
@@ -48,7 +48,7 @@ My name is Lamin Juwara. I am second year student in the biostatistic program at
   <tr>
     <td class="col-md-3">Aug 2011 - May 2015</td>
     <td>
-        <strong>BSc in Mathematics (Hons)</strong>
+        <strong>BSc Mathematics (Hons)</strong>
         <br>
       Kwame Nkrumah University of Science and Technology, Ghana
     </td>
