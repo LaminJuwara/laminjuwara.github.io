@@ -40,7 +40,7 @@ My name is Lamin Juwara. I am second year student in the biostatistic program at
   <tr>
     <td class="col-md-3">Aug 2015 - May 2016</td>
     <td>
-        <strong>MSc Mathematics Sciences</strong>
+        <strong>MSc Mathematical Sciences</strong>
         <br>
       AIMS South Africa, Stellenbosch University
     </td>
