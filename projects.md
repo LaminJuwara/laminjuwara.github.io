@@ -34,9 +34,11 @@ pre { /* Code block - determines code spacing between lines */
 }
 </style>
 
-### Web based tools for incidence estimation:
+
+## Web based tools for incidence estimation
     
   - Sample Size calculators:
-  -[[Precision Calculator]] (https://laminjuwara.shinyapps.io/sample_size_for_precision/)
-  -[Power Calculator](https://laminjuwara.shinyapps.io/sample_size_for_power_calculator/)
+  
+  -[<img src="/images/publications/precisionapp.png"/>](https://laminjuwara.shinyapps.io/sample_size_for_precision/)
+  -[<img src="/images/publications/powerapp.png"/>](https://laminjuwara.shinyapps.io/sample_size_for_power_calculator/)
   
