@@ -30,7 +30,15 @@ My name is Lamin Juwara. I am second year student in the biostatistic program at
 
 <table class="table table-hover">
   <tr>
-    <td class="col-md-3">Aug 2016 - June 2018</td>
+    <td class="col-md-3">Aug 2018 - Present</td>
+    <td>
+        <strong>PhD Quantitative Life Sciences</strong>
+        <br>
+      McGill University
+    </td>
+  </tr>
+  <tr>
+    <td class="col-md-3">Aug 2016 - May 2018</td>
     <td>
         <strong>MSc Biostatistics</strong>
         <br>
