@@ -41,10 +41,10 @@ pre { /* Code block - determines code spacing between lines */
 
 2) Examples of shiny apps for incidence estimation:
 
+
+| Sample Size for precision calculator      | Sample Size for power calculator     |
 | ----------------------------------------- |:---------------------------------------:|
-| Sample Size for precision calculator      |  [<img src="/images/publications/precisionapp.png" style="width: 30%; height: 30%"/>](https://laminjuwara.shinyapps.io/sample_size_for_precision/)     |
-| ||
-| Sample Size for power calculator          | [<img src="/images/publications/powerapp.png" style="width: 30%; height: 30%"/>](https://laminjuwara.shinyapps.io/sample_size_for_power_calculator/) | 
+|      [<img src="/images/publications/precisionapp.png" style="width: 30%; height: 30%"/>](https://laminjuwara.shinyapps.io/sample_size_for_precision/)      | [<img src="/images/publications/powerapp.png" style="width: 30%; height: 30%"/>](https://laminjuwara.shinyapps.io/sample_size_for_power_calculator/) | 
     
 
   
