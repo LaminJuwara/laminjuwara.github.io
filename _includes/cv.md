@@ -1,7 +1,7 @@
 
 ## <i class="fa fa-chevron-right"></i> Short Bio
 
-I am a PhD candidate in Quantitative Life Sciences at McGill. My MSc training was on privacy preserving data analysis in the department of Biostatistics under the supervisions of  [Dr Paramita Saha-Chaudhuri](https://sites.google.com/site/paramitasaharesearch/) and [Dr Alexandra M Schmidt](http://alex-schmidt.research.mcgill.ca/). Prior to mcgill, I studied at [AIMS](https://www.aims.ac.za/en/home)- Stellenbosch University (MSc Mathematics) under the supervision of [Dr Wilfred Ndifon](https://scholar.google.com/citations?user=T7leliwAAAAJ&hl=en) and the Kwame Nkrumah University of Science and Tech, Ghana (BSc Mathematics). I am from The Gambia and have lived ~~and studied~~ there until 2007.
+I am a PhD candidate in Quantitative Life Sciences at McGill. My MSc training was on privacy preserving data analysis at the department of Biostatistics under the supervisions of  [Dr Paramita Saha-Chaudhuri](https://sites.google.com/site/paramitasaharesearch/) and [Dr Alexandra M Schmidt](http://alex-schmidt.research.mcgill.ca/). Prior to mcgill, I studied at [AIMS](https://www.aims.ac.za/en/home)- Stellenbosch University (MSc Mathematics) under the supervision of [Dr Wilfred Ndifon](https://scholar.google.com/citations?user=T7leliwAAAAJ&hl=en) and the Kwame Nkrumah University of Science and Tech, Ghana (BSc Mathematics). I am from The Gambia and have lived ~~and studied~~ there until 2007.
 
 <table class="table table-hover">
   <tr>
@@ -26,7 +26,7 @@ I am a PhD candidate in Quantitative Life Sciences at McGill. My MSc training wa
 </table>
 
 
-## <i class="fa fa-chevron-right"></i> Education
+## <i class="fa fa-chevron-right"></i> Education and Training
 
 <table class="table table-hover">
   <tr>
@@ -67,27 +67,6 @@ I am a PhD candidate in Quantitative Life Sciences at McGill. My MSc training wa
 
 
 
-## <i class="fa fa-chevron-right"></i> Skills
-<table class="table table-hover">
-<tr>
-  <td class='col-md-2'>Languages</td>
-  <td markdown="1">
-Python, R, MatLab
-  </td>
-</tr>
-<tr>
-  <td class='col-md-2'>Frameworks</td>
-  <td markdown="1">
-NumPy, Pandas, SciPy
-  </td>
-</tr>
-<tr>
-  <td class='col-md-2'>Systems</td>
-  <td markdown="1">
-Linux, Windows
-  </td>
-</tr>
-</table>
 
 
 
