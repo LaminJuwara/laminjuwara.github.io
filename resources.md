@@ -43,6 +43,8 @@ pre { /* Code block - determines code spacing between lines */
   - [Convex Optimization at CMU](http://www.stat.cmu.edu/~ryantibs/convexopt/)
   
   - [Learn markdown](http://www.markdowntutorial.com)
+  
+  - [Creating an R Package](http://web.mit.edu/insong/www/pdf/rpackage_instructions.pdf)
     
   
 ### For fans of the beautiful game
