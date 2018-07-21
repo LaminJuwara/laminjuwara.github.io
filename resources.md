@@ -45,6 +45,7 @@ pre { /* Code block - determines code spacing between lines */
   - [Learn markdown](http://www.markdowntutorial.com)
   
   - [Creating an R Package](http://web.mit.edu/insong/www/pdf/rpackage_instructions.pdf)
+  - [Statistical learning by Robert Tibshirani](http://www-bcf.usc.edu/~gareth/ISL/)
     
   
 ### For fans of the beautiful game
