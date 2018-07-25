@@ -25,3 +25,5 @@ exclude:
   - update-vendor-deps.sh
   - vendor/bundle
   - vendor/bower.json
+
+theme: jekyll-theme-time-machine
