@@ -26,4 +26,4 @@ exclude:
   - vendor/bundle
   - vendor/bower.json
 
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-architect
