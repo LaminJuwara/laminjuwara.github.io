@@ -12,8 +12,12 @@ I am a PhD candidate in Quantitative Life Sciences at McGill. My MSc training wa
 ## <i class="fa fa-chevron-right"></i> News
 <table class="table table-hover">
 <tr>
+  <td class='col-md-3'>May 2018</td>
+  <td>Presented a poster ("Virtual pooling as a Privacy-Preserving Analytical Tool to estimate Hazard Ratios.") at the <a href='https://ssc.ca/en/meeting/annual/presentation/virtual-pooling-a-privacy-preserving-analysis-tool-estimate-covariate'> SSC annual Meeting in Montreal.</a>.</td>
+</tr>
+<tr>
   <td class='col-md-3'>April 2018</td>
-  <td>I will  present a poster ("Microaggregation as a Privacy-Preserving Analytical Tool for Analysis of Confidential Distributed Data") at the <a href='https://www.pharmacoepi.org/meetings/mid-year-2018/'> ISPE Mid-Year Meeting.</a>.</td>
+  <td>I will  present a poster ("Microaggregation as a Privacy-Preserving Analytical Tool for Analysis of Confidential Distributed Data") at the <a href='https://www.pharmacoepi.org/meetings/mid-year-2018/'> ISPE Mid-Year Meeting in Toronto.</a>.</td>
 </tr>
 <tr>
   <td class='col-md-3'>March 2018</td>

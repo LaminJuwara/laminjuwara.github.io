@@ -49,6 +49,7 @@ pre { /* Code block - determines code spacing between lines */
   - [Statistical learning by Robert Tibshirani](http://www-bcf.usc.edu/~gareth/ISL/)
     
   
-### For fans of the beautiful game
+### The beautiful Game
 
-  - [Real Madrid FC](https://www.realmadrid.com/en)
+  - [~~Real Madrid FC~~](https://www.realmadrid.com/en):-)
+  - [Juventus](http://www.juventus.com/en/)
