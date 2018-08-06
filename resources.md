@@ -51,5 +51,5 @@ pre { /* Code block - determines code spacing between lines */
   
 ### The beautiful Game
 
-  - [~~Real Madrid FC~~](https://www.realmadrid.com/en):-)
+  - [~~Real Madrid FC~~](https://www.realmadrid.com/en) :-)
   - [Juventus](http://www.juventus.com/en/)
