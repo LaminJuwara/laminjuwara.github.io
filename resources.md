@@ -35,19 +35,18 @@ pre { /* Code block - determines code spacing between lines */
 </style>
 
 ### Some useful resources:
-    
-  - [ML algorithms](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms)
   
   - [Combinatorics by Prof Stephan Wagner of SU ](http://math.sun.ac.za/~swagner/Strathmore.html)
   
   - [Convex Optimization at CMU](http://www.stat.cmu.edu/~ryantibs/convexopt/)
   
+  - [Statistical learning by Robert Tibshirani](http://www-bcf.usc.edu/~gareth/ISL/)
+  
+    - [ML algorithms](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms)
+    
   - [Learn markdown](http://www.markdowntutorial.com)
   
   - [Creating an R Package](http://web.mit.edu/insong/www/pdf/rpackage_instructions.pdf)
-  
-  - [Statistical learning by Robert Tibshirani](http://www-bcf.usc.edu/~gareth/ISL/)
-    
   
 ### The beautiful Game
 
