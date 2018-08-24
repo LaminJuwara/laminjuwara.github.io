@@ -48,7 +48,8 @@ pre { /* Code block - determines code spacing between lines */
   
   - [Creating an R Package](http://web.mit.edu/insong/www/pdf/rpackage_instructions.pdf)
   
-### The beautiful Game
+### Sports
 
   - [~~Real Madrid FC~~](https://www.realmadrid.com/en) :-)
+  
   - [Juventus](http://www.juventus.com/en/)
