@@ -49,6 +49,6 @@ pre { /* Code block - determines code spacing between lines */
    [<img src="/images/publications/precisionapp.png" align="middle" style="width: 60%; height: 60%"/>](https://laminjuwara.shinyapps.io/sample_size_for_precision/)   
  
   +  Sample Size for power calculator 
-  [<img src="/images/publications/powerapp.png" align="middle" style="width: 60%; height: 60%"/>](https://laminjuwara.shinyapps.io/sample_size_for_power_calculator/) 
+   [<img src="/images/publications/powerapp.png" align="middle" style="width: 60%; height: 60%"/>](https://laminjuwara.shinyapps.io/sample_size_for_power_calculator/) 
   
   
