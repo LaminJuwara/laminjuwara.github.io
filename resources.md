@@ -42,7 +42,7 @@ pre { /* Code block - determines code spacing between lines */
   
   - [Statistical learning by Robert Tibshirani](http://www-bcf.usc.edu/~gareth/ISL/)
   
-    - [ML algorithms](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms)
+  - [ML algorithms](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms)
     
   - [Learn markdown](http://www.markdowntutorial.com)
   

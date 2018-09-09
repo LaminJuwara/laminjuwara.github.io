@@ -34,7 +34,7 @@ pre { /* Code block - determines code spacing between lines */
 }
 </style>
 
-### Recent side projects:
+### Recent projects:
 
 * Nano Particle dependent T cell activation
 
@@ -43,7 +43,7 @@ pre { /* Code block - determines code spacing between lines */
 * [Virtual Pooling as a Privacy-preserving Analysis Tool to Estimate Covariate Hazard Ratio (HR) of Cox Proportional Hazard Model](https://ssc.ca/en/meeting/annual/presentation/virtual-pooling-a-privacy-preserving-analysis-tool-estimate-covariate)
 
 
-* Examples of shiny apps for incidence estimation:
+* Examples of Web applications for HIV incidence estimation:
 
   +  Sample Size for precision calculator    
    [<img src="/images/publications/precisionapp.png" align="middle" style="width: 50%; height: 50%"/>](https://laminjuwara.shinyapps.io/sample_size_for_precision/)   
