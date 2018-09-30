@@ -36,7 +36,6 @@ pre { /* Code block - determines code spacing between lines */
 
 ### Recent projects:
 
-* Nano Particle dependent T cell activation
 
 * [R Package 'metalr'](https://github.com/LaminJuwara/metalr)
 
