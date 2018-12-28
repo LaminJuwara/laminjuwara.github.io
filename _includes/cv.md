@@ -1,9 +1,9 @@
 
 ## <i class="fa fa-chevron-right"></i> Short Bio
 
-I am a PhD student in Quantitative Life Sciences at McGill and I'm co-advised by [Dr Paramita Saha-Chaudhuri](https://sites.google.com/site/paramitasaharesearch/) and Dr Ana Velly. The focus of my PhD research is validation of novel biomarkers for Parkinson's disease.
+I am a PhD student in Quantitative Life Sciences at McGill. I'm co-advised by [Dr Paramita Saha-Chaudhuri](https://sites.google.com/site/paramitasaharesearch/) and [Dr Ana Velly](https://www.mcgill.ca/dentistry/research/our-researchers/velly). The focus of my PhD research is validation of novel biomarkers for Parkinson's disease. My MSc training was on privacy preserving data analysis (at the department of Biostatistics) under the supervisions of  [Dr Paramita Saha-Chaudhuri](https://sites.google.com/site/paramitasaharesearch/) and [Dr Alexandra M Schmidt](http://alex-schmidt.research.mcgill.ca/).
 
-My MSc training was on privacy preserving data analysis (at the department of Biostatistics) under the supervisions of  [Dr Paramita Saha-Chaudhuri](https://sites.google.com/site/paramitasaharesearch/) and [Dr Alexandra M Schmidt](http://alex-schmidt.research.mcgill.ca/). Prior to mcgill, I studied at [AIMS](https://www.aims.ac.za/en/home)- Stellenbosch University (MSc Mathematics) under the supervision of [Dr Wilfred Ndifon](https://scholar.google.com/citations?user=T7leliwAAAAJ&hl=en) and the Kwame Nkrumah University of Science and Tech, Ghana (BSc Mathematics). I am from The Gambia and have lived ~~and studied~~ there until 2007.
+Prior to mcgill, I studied at [AIMS](https://www.aims.ac.za/en/home)- [Stellenbosch University](https://www.sun.ac.za/english) (MSc Mathematics) under the supervision of [Dr Wilfred Ndifon](https://scholar.google.com/citations?user=T7leliwAAAAJ&hl=en) and Kwame Nkrumah University of Science and Tech, Ghana (BSc Mathematics). I am from The Gambia and have lived ~~and studied~~ there until 2007.
 
 <table class="table table-hover">
   <tr>
@@ -11,45 +11,6 @@ My MSc training was on privacy preserving data analysis (at the department of Bi
 </table>
 
 
-
-
-## <i class="fa fa-chevron-right"></i> Education and Training
-
-<table class="table table-hover">
-  <tr>
-    <td class="col-md-3">Aug 2018 - Present</td>
-    <td>
-        <strong>PhD Quantitative Life Sciences</strong>
-        <br>
-      McGill University
-    </td>
-  </tr>
-  <tr>
-    <td class="col-md-3">Aug 2016 - May 2018</td>
-    <td>
-        <strong>MSc Biostatistics</strong>
-        <br>
-      McGill University
-    </td>
-  </tr>
-  <tr>
-    <td class="col-md-3">Aug 2015 - May 2016</td>
-    <td>
-        <strong>MSc Mathematical Sciences</strong>
-        <br>
-      AIMS South Africa, Stellenbosch University
-    </td>
-  </tr>
-  <tr>
-    <td class="col-md-3">Aug 2011 - May 2015</td>
-    <td>
-        <strong>BSc Mathematics (Hons)</strong>
-        <br>
-      Kwame Nkrumah University of Science and Technology, Ghana
-    </td>
-  </tr>
-
-</table>
 
 
 ## <i class="fa fa-chevron-right"></i> News
