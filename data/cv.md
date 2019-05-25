@@ -1,4 +1,4 @@
-My name is Lamin Juwara. I am second year student in the biostatistic program at McGill  working on privacy preserving data analysis under the supervisions of  [Dr Paramita Saha-Chaudhuri](https://sites.google.com/site/paramitasaharesearch/) and [Dr Alexandra M Schmidt](http://alex-schmidt.research.mcgill.ca/). Prior to mcgill, I studied at [AIMS](https://www.aims.ac.za/en/home)- Stellenbosch University (MSc Mathematics) under the supervision of [Dr Wilfred Ndifon](https://scholar.google.com/citations?user=T7leliwAAAAJ&hl=en) and the Kwame Nkrumah University of Science and Tech, Ghana (BSc Mathematics).
+I am a PhD student in Quantitative Life Sciences at McGill. I'm co-advised by [Dr Paramita Saha-Chaudhuri](https://sites.google.com/site/paramitasaharesearch/) and Dr Ana Velly. The focus of my PhD research is validation of novel biomarkers for Parkinson’s disease. My MSc training was on privacy preserving data analysis (at the department of Biostatistics) under the supervisions of  Dr Paramita Saha-Chaudhuri and [Dr Alexandra M Schmidt](http://alex-schmidt.research.mcgill.ca/). Prior to mcgill, I studied at [AIMS](https://www.aims.ac.za/en/home)- Stellenbosch University (MSc Mathematics) under the supervision of [Dr Wilfred Ndifon](https://ndifongroup.org/) and the Kwame Nkrumah University of Science and Tech, Ghana (BSc Mathematics).
 
 <table class="table table-hover">
   <tr>
@@ -8,6 +8,10 @@ My name is Lamin Juwara. I am second year student in the biostatistic program at
 
 ## <i class="fa fa-chevron-right"></i> News
 <table class="table table-hover">
+<tr>
+  <td class='col-md-3'>May 2019</td>
+  <td>Attending the training school ("Data Assimilation, Inverse Problems, Machine Learning") at the <a href='http://www.crm.umontreal.ca/en/'> CRM.</a>.</td>
+</tr>
 <tr>
   <td class='col-md-3'>April 2018</td>
   <td>I will  present a poster ("Microaggregation as a Privacy-Preserving Analytical Tool for Analysis of Confidential Distributed Data") at the <a href='https://www.pharmacoepi.org/meetings/mid-year-2018/'> ISPE Mid-Year Meeting.</a>.</td>
