@@ -43,10 +43,9 @@ pre { /* Code block - determines code spacing between lines */
   - [Statistical learning by Robert Tibshirani](http://www-bcf.usc.edu/~gareth/ISL/)
   
   - [ML algorithms](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms)
-    
-  - [Learn markdown](http://www.markdowntutorial.com)
   
   - [Creating an R Package](http://web.mit.edu/insong/www/pdf/rpackage_instructions.pdf)
+  
   
 ### Sports
 
