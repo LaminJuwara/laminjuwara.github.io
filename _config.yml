@@ -26,4 +26,5 @@ exclude:
   - vendor/bundle
   - vendor/bower.json
 
-theme: jekyll-theme-dinky
+theme: jekyll-theme-architect
+#jekyll-theme-dinky
