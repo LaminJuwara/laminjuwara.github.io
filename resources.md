@@ -36,6 +36,8 @@ pre { /* Code block - determines code spacing between lines */
 
 ### Some useful resources:
   
+  - [Git stars](https://github.com/LaminJuwara?tab=stars)
+  
   - [Combinatorics by Prof Stephan Wagner of SU ](http://math.sun.ac.za/~swagner/Strathmore.html)
   
   - [Convex Optimization at CMU](http://www.stat.cmu.edu/~ryantibs/convexopt/)
