@@ -48,6 +48,8 @@ pre { /* Code block - determines code spacing between lines */
   
   - [Creating an R Package](http://web.mit.edu/insong/www/pdf/rpackage_instructions.pdf)
   
+  - [Bioinformatics tutorials](https://www.bioconductor.org/help/course-materials/)
+  
   
 ### Sports
 
