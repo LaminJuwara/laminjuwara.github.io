@@ -26,5 +26,5 @@ exclude:
   - vendor/bundle
   - vendor/bower.json
 
-theme: jekyll-theme-Hyde
+theme: jekyll-theme-hyde
 
