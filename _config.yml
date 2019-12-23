@@ -9,7 +9,7 @@ kramdown:
   parse_block_html: true
   syntax_highlighter: rouge
 permalink: pretty
-#paginate: 5
+
 gems:
   - jekyll-sitemap
 plugins:
@@ -26,5 +26,5 @@ exclude:
   - vendor/bundle
   - vendor/bower.json
 
-theme: jekyll-theme-hyde
+theme: jekyll-theme-dinky
 
