@@ -16,8 +16,12 @@ Prior to mcgill, I studied at [AIMS](https://www.aims.ac.za/en/home)- [Stellenbo
 ## <i class="fa fa-chevron-right"></i> News
 <table class="table table-hover">
 <tr>
+  <td class='col-md-3'>December 2019</td>
+  <td> Recent work with Marisa-C et al. at the Schipper Lab was highlighted in Nature Reviews Neurology at <a href='https://www.nature.com/articles/s41582-019-0305-y'> MicroRNA (153 & 223) as diagnostic markers in Parkinson disease.</a>.</td>
+</tr>
+<tr>
   <td class='col-md-3'>May 2019</td>
-  <td>Attending the training school ("Data Assimilation, Inverse Problems, Machine Learning") at the <a href='http://www.crm.umontreal.ca/en/'> CRM.</a>.</td>
+  <td>Attending the training school ("Data Assimilation, Inverse Problems, Machine Learning") at <a href='http://www.crm.umontreal.ca/en/'> CRM.</a>.</td>
 </tr>
 <tr>
   <td class='col-md-3'>May 2018</td>
