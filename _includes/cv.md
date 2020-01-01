@@ -17,7 +17,7 @@ Prior to mcgill, I studied at [AIMS](https://www.aims.ac.za/en/home)- [Stellenbo
 <table class="table table-hover">
 <tr>
   <td class='col-md-3'>December 2019</td>
-  <td> Recent work with MarisaC et al. at the Schipper Labs on <a href='https://www.nature.com/articles/s41582-019-0305-y'> Salivary MicroRNA (153 & 223) diagnostic markers in Parkinson disease</a> was highlighted in Nature Reviews Neurology.</td>
+  <td> Recent work with MarisaC et al. at the Schipper Labs on <a href='https://doi.org/10.1002/mds.27935'> Salivary diagnostic markers (MicroRNA 153 & 223) in Parkinson disease</a> was highlighted in <a href='https://www.nature.com/articles/s41582-019-0305-y'> Nature Reviews Neurology</a>.</td>
 </tr>
 <tr>
   <td class='col-md-3'>May 2019</td>
