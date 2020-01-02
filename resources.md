@@ -38,8 +38,6 @@ pre { /* Code block - determines code spacing between lines */
   
   - [Git stars](https://github.com/LaminJuwara?tab=stars)
   
-  - [Combinatorics by Prof Stephan Wagner of SU ](http://math.sun.ac.za/~swagner/Strathmore.html)
-  
   - [Convex Optimization at CMU](http://www.stat.cmu.edu/~ryantibs/convexopt/)
   
   - [Statistical learning by Robert Tibshirani](http://www-bcf.usc.edu/~gareth/ISL/)
@@ -49,6 +47,8 @@ pre { /* Code block - determines code spacing between lines */
   - [Creating an R Package](http://web.mit.edu/insong/www/pdf/rpackage_instructions.pdf)
   
   - [Bioinformatics tutorials](https://www.bioconductor.org/help/course-materials/)
+  
+    - [Combinatorics by Prof Stephan Wagner of SU ](http://math.sun.ac.za/~swagner/Strathmore.html)
   
   
 ### Sports
