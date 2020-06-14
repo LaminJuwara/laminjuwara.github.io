@@ -16,6 +16,10 @@ Prior to mcgill, I studied at [AIMS](https://www.aims.ac.za/en/home)- [Stellenbo
 ## <i class="fa fa-chevron-right"></i> News
 <table class="table table-hover">
 <tr>
+  <td class='col-md-3'>June 2020</td>
+  <td> New article on <a href='https://doi.org/10.1016/j.ijmedinf.2020.104170'> Identifying predictive factors for neuropathic pain after BC surgery </a>.</td>
+</tr>
+<tr>
   <td class='col-md-3'>December 2019</td>
   <td> Recent work with MarisaC et al. at the Schipper Labs on <a href='https://doi.org/10.1002/mds.27935'> Salivary diagnostic markers (MicroRNA 153 & 223) in Parkinson disease</a> was highlighted in <a href='https://www.nature.com/articles/s41582-019-0305-y'> Nature Reviews Neurology</a>.</td>
 </tr>
