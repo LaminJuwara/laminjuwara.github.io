@@ -1,6 +1,6 @@
 ---
 layout: singlePage
-title: "Projects"
+title: "Research"
 ---
 
 <style type="text/css">
@@ -36,11 +36,13 @@ pre { /* Code block - determines code spacing between lines */
 
 ### Recent projects:
 
+*[Google scholar](https://scholar.google.ca/citations?user=XZdVDP0AAAAJ&hl=en)
+
+*[Researchgate](https://www.researchgate.net/profile/Lamin_Juwara?ev=hdr_xprf)
+
+### Other projects:
 
 * [R Package 'metalr'](https://github.com/LaminJuwara/metalr)
-
-* [Virtual Pooling as a Privacy-preserving Analysis Tool to Estimate Covariate Hazard Ratio (HR) of Cox Proportional Hazard Model](https://ssc.ca/en/meeting/annual/presentation/virtual-pooling-a-privacy-preserving-analysis-tool-estimate-covariate)
-
 
 * Examples of Web applications for HIV incidence estimation:
 
