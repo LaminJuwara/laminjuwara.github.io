@@ -16,8 +16,12 @@ Prior to mcgill, I studied at [AIMS](https://www.aims.ac.za/en/home)- [Stellenbo
 ## <i class="fa fa-chevron-right"></i> News
 <table class="table table-hover">
 <tr>
+  <td class='col-md-3'>Sept 2020</td>
+  <td> Our paper on <a href='https://doi.org/10.1111/jnc.15167'> Characterization and heme oxygenase‐1 content of extracellular vesicles in human biofluids </a>.</td>
+</tr>
+<tr>
   <td class='col-md-3'>June 2020</td>
-  <td> New article on <a href='https://doi.org/10.1016/j.ijmedinf.2020.104170'> Identifying predictive factors for neuropathic pain after BC surgery </a>.</td>
+  <td> New article on <a href='https://doi.org/10.1016/j.ijmedinf.2020.104170'> Identifying predictive factors for neuropathic pain after BC surgery using ML </a>.</td>
 </tr>
 <tr>
   <td class='col-md-3'>December 2019</td>
