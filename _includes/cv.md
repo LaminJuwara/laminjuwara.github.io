@@ -1,9 +1,9 @@
 
 ## <i class="fa fa-chevron-right"></i> Short Bio
 
-I am a PhD student in Quantitative Life Sciences at McGill. I'm co-advised by [Dr Paramita Saha-Chaudhuri](https://sites.google.com/site/paramitasaharesearch/) and [Dr Ana Velly](https://www.mcgill.ca/dentistry/research/our-researchers/velly). The focus of my PhD research is validation of novel biomarkers for Parkinson's disease. My MSc training was on privacy preserving data analysis (at the department of Biostatistics) under the supervisions of  [Dr Paramita Saha-Chaudhuri](https://sites.google.com/site/paramitasaharesearch/) and [Dr Alexandra M Schmidt](http://alex-schmidt.research.mcgill.ca/).
+I am a PhD candidate in Quantitative Life Sciences at McGill. I'm co-advised by [Dr Paramita Saha-Chaudhuri](https://sites.google.com/site/paramitasaharesearch/), [Prof Yi Yang](https://www.math.mcgill.ca/yyang/) and [Dr Ana Velly](https://www.mcgill.ca/dentistry/research/our-researchers/velly). The focus of my PhD research is Privacy-preserving data publication for centralized analysis. I'm also a member of the [Schipper Lab](https://www.researchgate.net/profile/Hyman_Schipper) where we focus on the discovery of salivary biomarkers for Parkinson's disease. 
 
-Prior to mcgill, I studied at [AIMS](https://www.aims.ac.za/en/home)- [Stellenbosch University](https://www.sun.ac.za/english) (MSc Mathematics) under the supervision of [Dr Wilfred Ndifon](https://ndifongroup.org/) and Kwame Nkrumah University of Science and Tech, Ghana (BSc Mathematics). I am from The Gambia and have lived ~~and studied~~ there until 2007.
+My MSc training was at the department of Biostatistics under [Dr Paramita Saha-Chaudhuri](https://sites.google.com/site/paramitasaharesearch/) and [Dr Alexandra M Schmidt](http://alex-schmidt.research.mcgill.ca/). Prior to mcgill, I studied at [AIMS](https://www.aims.ac.za/en/home)- [Stellenbosch University](https://www.sun.ac.za/english) (MSc Mathematics) under the supervision of [Dr Wilfred Ndifon](https://ndifongroup.org/) and Kwame Nkrumah University of Science and Tech, Ghana (BSc Mathematics). I am from The Gambia and have lived there until 2007.
 
 <table class="table table-hover">
   <tr>
