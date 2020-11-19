@@ -16,6 +16,10 @@ My MSc training was at the department of Biostatistics under [Dr Paramita Saha-C
 ## <i class="fa fa-chevron-right"></i> News
 <table class="table table-hover">
 <tr>
+  <td class='col-md-3'>Nov 2020</td>
+  <td> New methods paper on <a href='https://doi.org/10.1002/sim.8816'> Survival analysis with pooled covariates</a>.</td>
+</tr>
+<tr>
   <td class='col-md-3'>Sept 2020</td>
   <td> Our paper on <a href='https://doi.org/10.1111/jnc.15167'> Characterization and heme oxygenase‐1 content of extracellular vesicles in human biofluids</a> is out.</td>
 </tr>
