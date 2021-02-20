@@ -34,11 +34,14 @@ pre { /* Code block - determines code spacing between lines */
 }
 </style>
 
+###
+
+
 ### Recent projects:
 
-*[Google scholar](https://scholar.google.ca/citations?user=XZdVDP0AAAAJ&hl=en)
+- [Google scholar](https://scholar.google.ca/citations?user=XZdVDP0AAAAJ&hl=en)
 
-*[Researchgate](https://www.researchgate.net/profile/Lamin_Juwara?ev=hdr_xprf)
+- [Researchgate](https://www.researchgate.net/profile/Lamin_Juwara?ev=hdr_xprf)
 
 ### Other projects:
 
