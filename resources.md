@@ -12,27 +12,30 @@ td {  /* Table  */
   font-size: 8px;
 }
 h1.title {
-  font-size: 38px;
+  font-size: 25px;
   color: DarkRed;
 }
 h1 { /* Header 1 */
-  font-size: 28px;
+  font-size: 25px;
   color: DarkBlue;
 }
 h2 { /* Header 2 */
-    font-size: 22px;
+    font-size: 20px;
 }
 h3 { /* Header 3 */
   font-size: 20px;
   font-family: "Times New Roman", Times, serif;
 }
 code.r{ /* Code block */
-    font-size: 12px;
+    font-size: 15px;
 }
 pre { /* Code block - determines code spacing between lines */
-    font-size: 14px;
+    font-size: 15px;
 }
 </style>
+
+###
+
 
 ### Some useful resources:
   
@@ -42,14 +45,13 @@ pre { /* Code block - determines code spacing between lines */
   
   - [Statistical learning by Robert Tibshirani](http://www-bcf.usc.edu/~gareth/ISL/)
   
-  - [ML algorithms](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms)
+  - [Combinatorics by Prof Stephan Wagner of SU ](http://math.sun.ac.za/~swagner/Strathmore.html)
   
   - [Creating an R Package](http://web.mit.edu/insong/www/pdf/rpackage_instructions.pdf)
   
   - [Bioinformatics tutorials](https://www.bioconductor.org/help/course-materials/)
   
-    - [Combinatorics by Prof Stephan Wagner of SU ](http://math.sun.ac.za/~swagner/Strathmore.html)
-  
+
   
 ### Sports
 
