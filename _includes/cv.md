@@ -16,6 +16,10 @@ My MSc training was at the department of Biostatistics under [Dr Paramita Saha-C
 ## <i class="fa fa-chevron-right"></i> News
 <table class="table table-hover">
 <tr>
+  <td class='col-md-3'>May 2021</td>
+  <td> I will be presenting a poster at the CSSC conference on Privacy-preserving Cox regression.</td>
+</tr>
+<tr>
   <td class='col-md-3'>Nov 2020</td>
   <td> New methods paper on <a href='https://doi.org/10.1002/sim.8816'> Survival analysis with pooled covariates</a>.</td>
 </tr>
@@ -33,15 +37,15 @@ My MSc training was at the department of Biostatistics under [Dr Paramita Saha-C
 </tr>
 <tr>
   <td class='col-md-3'>May 2019</td>
-  <td>Attending the training school ("Data Assimilation, Inverse Problems, Machine Learning") at <a href='http://www.crm.umontreal.ca/en/'> CRM.</a></td>
+  <td> Attending the training school ("Data Assimilation, Inverse Problems, Machine Learning") at <a href='http://www.crm.umontreal.ca/en/'> CRM.</a></td>
 </tr>
 <tr>
   <td class='col-md-3'>May 2018</td>
-  <td>Presented a poster ("Virtual pooling as a Privacy-Preserving Analytical Tool to estimate Hazard Ratios.") at the <a href='https://ssc.ca/en/meeting/annual/presentation/virtual-pooling-a-privacy-preserving-analysis-tool-estimate-covariate'> SSC annual Meeting in Montreal.</a></td>
+  <td> Presented a poster ("Virtual pooling as a Privacy-Preserving Analytical Tool to estimate Hazard Ratios.") at the <a href='https://ssc.ca/en/meeting/annual/presentation/virtual-pooling-a-privacy-preserving-analysis-tool-estimate-covariate'> SSC annual Meeting in Montreal.</a></td>
 </tr>
 <tr>
   <td class='col-md-3'>April 2018</td>
-  <td>I will  present a poster ("Microaggregation as a Privacy-Preserving Analytical Tool for Analysis of Confidential Distributed Data") at the <a href='https://www.pharmacoepi.org/meetings/mid-year-2018/'> ISPE Mid-Year Meeting in Toronto.</a></td>
+  <td> I will  present a poster ("Microaggregation as a Privacy-Preserving Analytical Tool for Analysis of Confidential Distributed Data") at the <a href='https://www.pharmacoepi.org/meetings/mid-year-2018/'> ISPE Mid-Year Meeting in Toronto.</a></td>
 </tr>
 <tr>
   <td class='col-md-3'>March 2018</td>
