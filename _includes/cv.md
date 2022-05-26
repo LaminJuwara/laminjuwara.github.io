@@ -16,6 +16,10 @@ My MSc training was at the department of Biostatistics under [Dr Paramita Saha-C
 ## <i class="fa fa-chevron-right"></i> News
 <table class="table table-hover">
 <tr>
+  <td class='col-md-3'>May 2022</td>
+  <td> Our new methods paper on <a href='https://doi.org/10.1093/jssam/smac013'> Privacy-Preserving Logistic Regression </a> is out.</td>
+</tr>
+<tr>
   <td class='col-md-3'>May 2021</td>
   <td> I will be presenting a poster at the CSSC conference on Privacy-preserving Cox regression.</td>
 </tr>
