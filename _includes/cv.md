@@ -1,9 +1,9 @@
 
 ## <i class="fa fa-chevron-right"></i> Short Bio
 
-I am a PhD candidate in the Computational and Statistical Molecular Biology Stream, [Quantitative Life Sciences](https://www.mcgill.ca/qls/) at McGill. I'm co-advised by [Dr Paramita Saha-Chaudhuri](https://sites.google.com/site/paramitasaharesearch/), [Prof Yi Yang](https://www.math.mcgill.ca/yyang/), and [Dr Ana Velly](https://www.mcgill.ca/dentistry/ana-miriam-velly). The focus of my research is Privacy-preserving data integration and analysis of distributed biomedical data. I'm also a member of the [Schipper Lab](https://www.researchgate.net/profile/Hyman_Schipper) working on projects related to salivary biomarkers for Parkinson's disease. 
+I completed my PhD in Computational Statistics and Data Privacy in the [Quantitative Life Sciences Program](https://www.mcgill.ca/qls/) at McGill University. I was co-advised by [Dr Paramita Saha-Chaudhuri](https://sites.google.com/site/paramitasaharesearch/), [Prof Archer Yi Yang](https://www.math.mcgill.ca/yyang/), and [Dr Ana Velly](https://www.mcgill.ca/dentistry/ana-miriam-velly). My research focuses on statistical and computational methods for analyzing distributed biomedical data. I also collaborate with the [Schipper Lab](https://www.researchgate.net/profile/Hyman_Schipper) on projects related to salivary biomarkers for Parkinson's disease. 
 
-My MSc training was at the department of Biostatistics under [Dr Paramita Saha-Chaudhuri](https://sites.google.com/site/paramitasaharesearch/) and [Dr Alexandra M Schmidt](http://alex-schmidt.research.mcgill.ca/). Prior to mcgill, I studied at [AIMS](https://www.aims.ac.za/en/home)- [Stellenbosch University](https://www.sun.ac.za/english) (MSc Mathematics) under the supervision of [Dr Wilfred Ndifon](https://ndifongroup.org/) and Kwame Nkrumah University of Science and Tech, Ghana (BSc Mathematics). I am from The Gambia and have lived there until 2007.
+My MSc training was also at the department of Biostatistics under [Dr Paramita Saha-Chaudhuri](https://sites.google.com/site/paramitasaharesearch/). Before joining McGill, I studied at [AIMS](https://www.aims.ac.za/en/home)-[Stellenbosch University](https://www.sun.ac.za/english) (MSc Mathematics) under the supervision of [Dr Wilfred Ndifon](https://ndifongroup.org/) and Kwame Nkrumah University of Science and Tech, Ghana (BSc Mathematics). I am from The Gambia and have lived there until 2007.
 
 <table class="table table-hover">
   <tr>
@@ -29,7 +29,7 @@ My MSc training was at the department of Biostatistics under [Dr Paramita Saha-C
 </tr>
 <tr>
   <td class='col-md-3'>Sept 2020</td>
-  <td> Our paper on <a href='https://doi.org/10.1111/jnc.15167'> Characterization and heme oxygenase‐1 content of extracellular vesicles in human biofluids</a> is out.</td>
+  <td> Our paper on <a href='https://doi.org/10.1111/jnc.15167'> Characterization and heme oxygenase-1 content of extracellular vesicles in human biofluids</a> is out.</td>
 </tr>
 <tr>
   <td class='col-md-3'>June 2020</td>
