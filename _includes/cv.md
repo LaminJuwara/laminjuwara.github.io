@@ -1,15 +1,16 @@
 
 ## <i class="fa fa-chevron-right"></i> Short Bio
 
-I completed my PhD in Computational Statistics and Data Privacy in the [Quantitative Life Sciences Program](https://www.mcgill.ca/qls/) at McGill University. I was co-advised by [Dr Paramita Saha-Chaudhuri](https://sites.google.com/site/paramitasaharesearch/) and [Prof Archer Yi Yang](https://www.math.mcgill.ca/yyang/). My research interest generally lies in developing new statistical and computational methods for analyzing distributed biomedical data without disclosing sensitive personal information. I also frequently collaborate with the [Schipper Lab](https://www.researchgate.net/profile/Hyman_Schipper) on applied projects to identify and validate salivary biomarkers for various neurodegenerative disorders. 
+I completed my PhD in Computational Statistics and Data Privacy in the [Quantitative Life Sciences Program](https://www.mcgill.ca/qls/) at McGill University. I was co-advised by [Dr Paramita Saha-Chaudhuri](https://sites.google.com/site/paramitasaharesearch/) and [Prof Archer Yi Yang](https://www.math.mcgill.ca/yyang/). My MSc training was in Biostatistics (also at McGillU) under [Dr Paramita Saha-Chaudhuri](https://sites.google.com/site/paramitasaharesearch/).
 
-My MSc training was at the department of Biostatistics (also at McGillU) under [Dr Paramita Saha-Chaudhuri](https://sites.google.com/site/paramitasaharesearch/). Before joining McGill, I studied at [AIMS](https://www.aims.ac.za/en/home)-[Stellenbosch University](https://www.sun.ac.za/english) (MSc Mathematics) under the supervision of [Prof Wilfred Ndifon](https://ndifongroup.org/) and Kwame Nkrumah University of Science and Tech, Ghana (BSc Mathematics). I am from The Gambia and have lived there until 2007.
+My research interest generally lies in developing new statistical and computational methods for analyzing distributed biomedical data under data privacy restriction. I also have a broad interest in applications of statistics and statistical modelling.For example, I collaborate with the [Schipper Lab](https://www.researchgate.net/profile/Hyman_Schipper) on applied projects to identify and validate biomarkers for various neurodegenerative disorders. 
+
+Before joining McGill, I studied at [Stellenbosch University](https://www.sun.ac.za/english)-[AIMS](https://www.aims.ac.za/en/home)(MSc Mathematics) under the supervision of [Prof Wilfred Ndifon](https://ndifongroup.org/) and Kwame Nkrumah University of Science and Tech, Ghana (BSc Mathematics). I am from The Gambia and have lived there until 2007.
 
 <table class="table table-hover">
   <tr>
   </tr>
 </table>
-
 
 
 
