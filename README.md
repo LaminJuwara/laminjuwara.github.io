@@ -1,3 +1,3 @@
 ### Lamin's personal website
 
-This is where I huff and puff about personal things nobody cares about.
+This is where I write about personal things.
