@@ -1,15 +1,11 @@
 
 ## <i class="fa fa-chevron-right"></i> Short Bio
 
-
-I earned my PhD in [Quantitative Life Sciences](https://www.mcgill.ca/qls/) at McGill University with an emphasis on Computational Statistics and Data Privacy. I had the privilege of being co-advised by [Dr Paramita Saha-Chaudhuri](https://sites.google.com/site/paramitasaharesearch/) and [Prof Archer Yi Yang](https://www.math.mcgill.ca/yyang/). Prior to my doctoral studies, I completed my MSc in Biostatistics at McGill, also under the guidance of Dr. Paramita Saha-Chaudhuri.
+I'm currently a Postdoc at the CHEO Research Institute, where I work on the applications of machine learning methods for synthetic data generation. I completed my Ph.D. in  [Quantitative Life Sciences](https://www.mcgill.ca/qls/) at McGill University (Computational
+Statistics and Data Privacy Concentration). I had the privilege of being co-advised by [Dr Paramita Saha-Chaudhuri](https://sites.google.com/site/paramitasaharesearch/) and [Prof Archer Yi Yang](https://www.math.mcgill.ca/yyang/). Prior to my doctoral studies, I completed MSc programs in Biostatistics at McGill and Mathematics at Stellenbosch University.
 
 My research interests primarily revolve around the development of novel statistical and computational methodologies for analyzing distributed biomedical data while ensuring privacy compliance. Additionally, I maintain a strong passion for statistical modeling and its applications in the fields of neurology and pain research.
 
-Before joining McGill, I studied at Stellenbosch University, where I completed an MSc in Mathematics through the AIMS-South Africa program under the supervision of [Prof Wilfred Ndifon](https://ndifongroup.org/). Prior to that, I earned my BSc in Mathematics at Kwame Nkrumah University of Science and Technology in Ghana.
-
-
-I am from The Gambia and have lived there until 2007.
 
 <table class="table table-hover">
   <tr>
