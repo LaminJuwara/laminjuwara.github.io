@@ -1,8 +1,8 @@
 
 ## <i class="fa fa-chevron-right"></i> Short Bio
 
-I'm currently a Postdoc at the CHEO Research Institute, where I work on the applications of machine learning methods for synthetic data generation. I completed my Ph.D. in  [Quantitative Life Sciences](https://www.mcgill.ca/qls/) at McGill University (Computational
-Statistics and Data Privacy Concentration). I had the privilege of being co-advised by [Dr Paramita Saha-Chaudhuri](https://sites.google.com/site/paramitasaharesearch/) and [Prof Archer Yi Yang](https://www.math.mcgill.ca/yyang/). Prior to my doctoral studies, I completed MSc programs in Biostatistics at McGill and Mathematics at Stellenbosch University.
+I'm currently a Postdoc at the CHEO Research Institute, where I work on the applications of machine learning methods for synthetic data generation. I completed my Ph.D. in  [Quantitative Life Sciences](https://www.mcgill.ca/qls/) at McGill University (with concentration on
+Statistics and Data Privacy). During my doctoral studies, I had the privilege of being co-advised by [Dr Paramita Saha-Chaudhuri](https://sites.google.com/site/paramitasaharesearch/) and [Prof Archer Yi Yang](https://www.math.mcgill.ca/yyang/). Prior to that, I completed MSc programs in Biostatistics at McGill and Mathematics at Stellenbosch University.
 
 My research interests primarily revolve around the development of novel statistical and computational methodologies for analyzing distributed biomedical data while ensuring privacy compliance. Additionally, I maintain a strong passion for statistical modeling and its applications in the fields of neurology and pain research.
 
