@@ -1,9 +1,15 @@
 
 ## <i class="fa fa-chevron-right"></i> Short Bio
 
-I completed my PhD in Computational Statistics and Data Privacy in the [Quantitative Life Sciences Program](https://www.mcgill.ca/qls/) at McGill University. I was co-advised by [Dr Paramita Saha-Chaudhuri](https://sites.google.com/site/paramitasaharesearch/) and [Prof Archer Yi Yang](https://www.math.mcgill.ca/yyang/). My MSc training was in Biostatistics (also at McGill) under the supervision of Dr Paramita Saha-Chaudhuri. My research interest generally lies in developing new statistical and computational methods for analyzing distributed biomedical data under privacy restrictions. I also have a broad interest in statistical modelling and applications of statistics to neurology and pain research. 
 
-Prior to McGill, I studied at [Stellenbosch University](https://www.sun.ac.za/english) (affiliated with [AIMS](https://www.aims.ac.za/en/home)-South Africa, MSc Mathematics) under the supervision of [Prof Wilfred Ndifon](https://ndifongroup.org/) and Kwame Nkrumah University of Science and Tech, Ghana (BSc Mathematics). I am from The Gambia and have lived there until 2007.
+I earned my PhD in [Quantitative Life Sciences](https://www.mcgill.ca/qls/) at McGill University with an emphasis on Computational Statistics and Data Privacy. I had the privilege of being co-advised by [Dr Paramita Saha-Chaudhuri](https://sites.google.com/site/paramitasaharesearch/) and [Prof Archer Yi Yang](https://www.math.mcgill.ca/yyang/). Prior to my doctoral studies, I completed my MSc in Biostatistics at McGill, also under the guidance of Dr. Paramita Saha-Chaudhuri.
+
+My research interests primarily revolve around the development of novel statistical and computational methodologies for analyzing distributed biomedical data while ensuring privacy compliance. Additionally, I maintain a strong passion for statistical modeling and its applications in the fields of neurology and pain research.
+
+Before joining McGill, I studied at Stellenbosch University, where I completed an MSc in Mathematics through the AIMS-South Africa program under the supervision of [Prof Wilfred Ndifon](https://ndifongroup.org/). Prior to that, I earned my BSc in Mathematics at Kwame Nkrumah University of Science and Technology in Ghana.
+
+
+I am from The Gambia and have lived there until 2007.
 
 <table class="table table-hover">
   <tr>
