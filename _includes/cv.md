@@ -1,10 +1,9 @@
 
 ## <i class="fa fa-chevron-right"></i> Short Bio
 
-I'm currently a Postdoc at the CHEO Research Institute, where I work on the applications of machine learning methods for synthetic data generation. I completed my Ph.D. in  [Quantitative Life Sciences](https://www.mcgill.ca/qls/) at McGill University (with concentration on
-Statistics and Data Privacy). During my doctoral studies, I had the privilege of being co-advised by [Dr Paramita Saha-Chaudhuri](https://sites.google.com/site/paramitasaharesearch/) and [Prof Archer Yi Yang](https://www.math.mcgill.ca/yyang/). Prior to that, I completed MSc programs in Biostatistics at McGill and Mathematics at Stellenbosch University.
+I'm currently a Postdoc at the CHEO Research Institute, where I work on the applications of machine learning methods for synthetic data generation. I completed my Ph.D. in  [Quantitative Life Sciences](https://www.mcgill.ca/qls/) at McGill University (with concentration on Computational Statistics). During my doctoral studies, I had the privilege of being co-advised by [Dr Paramita Saha-Chaudhuri](https://sites.google.com/site/paramitasaharesearch/) and [Prof Archer Yi Yang](https://www.math.mcgill.ca/yyang/). Prior to that, I completed MSc programs in Biostatistics at McGill and Mathematics at Stellenbosch University.
 
-My research interests primarily revolve around the development of novel statistical and computational methodologies for analyzing distributed biomedical data while ensuring privacy compliance. Additionally, I maintain a strong passion for statistical modeling and its applications in the fields of neurology and pain research.
+My research interests primarily revolve around the development of novel statistical and computational methodologies for analyzing distributed biomedical data under privacy restrictions. I also have a strong passion for statistical modeling and its applications to neurology and pain research.
 
 
 <table class="table table-hover">
@@ -16,6 +15,11 @@ My research interests primarily revolve around the development of novel statisti
 
 ## <i class="fa fa-chevron-right"></i> News
 <table class="table table-hover">
+<tr>
+  <td class='col-md-3'>November 2023</td>
+  <td> New methods paper on Privacy-preserving analysis of time-to-event data
+under nested case-control sampling has been accepted at Statistical Methods in Medical Research.</td>
+</tr>
 <tr>
   <td class='col-md-3'>July 2022</td>
   <td> Joined the EHIL group at CHEO and uOttawa as a Postdoc researcher.</td>

@@ -12,11 +12,11 @@ td {  /* Table  */
   font-size: 8px;
 }
 h1.title {
-  font-size: 25px;
+  font-size: 20px;
   color: DarkRed;
 }
 h1 { /* Header 1 */
-  font-size: 25px;
+  font-size: 20px;
   color: DarkBlue;
 }
 h2 { /* Header 2 */
@@ -37,7 +37,7 @@ pre { /* Code block - determines code spacing between lines */
 ###
 
 
-### Some useful resources:
+### Learning Materials
   
   - [Git stars](https://github.com/LaminJuwara?tab=stars)
   
@@ -52,9 +52,4 @@ pre { /* Code block - determines code spacing between lines */
   - [Bioinformatics tutorials](https://www.bioconductor.org/help/course-materials/)
   
 
-  
-### Sports
 
-  - [~~Real Madrid FC~~](https://www.realmadrid.com/en) :-)
-  
-  - [Juventus](http://www.juventus.com/en/)

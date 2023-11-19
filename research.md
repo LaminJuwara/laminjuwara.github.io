@@ -37,12 +37,12 @@ pre { /* Code block - determines code spacing between lines */
 ###
 
 
-### Recent projects:
+### Publications
 
 - [Google scholar](https://scholar.google.ca/citations?user=XZdVDP0AAAAJ&hl=en)
 
 
-### Other projects:
+### Software
 
 * [R Package 'metalr'](https://github.com/LaminJuwara/metalr)
 
