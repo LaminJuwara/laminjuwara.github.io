@@ -16,7 +16,7 @@ My research interests primarily revolve around the development of novel statisti
 ## <i class="fa fa-chevron-right"></i> News
 <table class="table table-hover">
 <tr>
-  <td class='col-md-3'>November 2023</td>
+  <td class='col-md-3'>Nov., 2023</td>
   <td> New methods paper on Privacy-preserving analysis of time-to-event data
 under nested case-control sampling has been accepted at Statistical Methods in Medical Research.</td>
 </tr>
@@ -46,7 +46,7 @@ under nested case-control sampling has been accepted at Statistical Methods in M
 </tr>
 <tr>
   <td class='col-md-3'>December 2019</td>
-  <td> Recent work with MarisaC et al. at the Schipper Labs on <a href='https://doi.org/10.1002/mds.27935'> Salivary diagnostic markers (MicroRNA 153 & 223) in Parkinson disease</a> was highlighted in <a href='https://www.nature.com/articles/s41582-019-0305-y'> Nature Reviews Neurology.</a></td>
+  <td> Recent work with Cressatti et al. at the Schipper Labs on <a href='https://doi.org/10.1002/mds.27935'> Salivary diagnostic markers (MicroRNA 153 & 223) in Parkinson disease</a> was highlighted in <a href='https://www.nature.com/articles/s41582-019-0305-y'> Nature Reviews Neurology.</a></td>
 </tr>
 <tr>
   <td class='col-md-3'>May 2019</td>
