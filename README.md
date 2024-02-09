@@ -1,3 +1,3 @@
-### Lamin's personal website
+### Personal website
 
-This is where I write about personal things.
+
