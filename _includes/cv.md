@@ -1,5 +1,5 @@
 
-## <i class="fa fa-chevron-right"></i> Short Bio
+#### <i class="fa fa-chevron-right"></i> Short Bio
 
 I'm currently a Postdoc at the CHEO Research Institute, where I work on the applications of machine learning methods for synthetic data generation. I completed my Ph.D. in  [Quantitative Life Sciences](https://www.mcgill.ca/qls/) at McGill University (with concentration on Computational Statistics). During my doctoral studies, I had the privilege of being co-advised by [Dr Paramita Saha-Chaudhuri](https://sites.google.com/site/paramitasaharesearch/) and [Prof Archer Yi Yang](https://www.math.mcgill.ca/yyang/). Prior to that, I completed MSc programs in Biostatistics at McGill and Mathematics at Stellenbosch University.
 
@@ -13,7 +13,7 @@ My research interests primarily revolve around the development of novel statisti
 
 
 
-## <i class="fa fa-chevron-right"></i> News
+#### <i class="fa fa-chevron-right"></i> News
 <table class="table table-hover">
 <tr>
   <td class='col-md-3'>Nov., 2023</td>

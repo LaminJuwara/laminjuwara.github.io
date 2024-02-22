@@ -6,7 +6,7 @@ title: Lamin Juwara
 {% include cv.md %}
 
 ---
-## <i class="fa fa-chevron-right"></i> Recent Blog Posts
+#### <i class="fa fa-chevron-right"></i> Recent Blog Posts
 
 <table class="table table-hover">
   {% for post in site.posts limit: 5 %}
