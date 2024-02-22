@@ -4,10 +4,6 @@ title: "Blog Posts"
 ---
 
 
-
-##
-
-
 ### Blog Posts
 
 <table class="table table-hover">

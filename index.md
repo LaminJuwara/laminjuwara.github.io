@@ -3,9 +3,8 @@ layout: index
 title: Lamin Juwara
 ---
 
-
-
 {% include cv.md %}
+
 ---
 ## <i class="fa fa-chevron-right"></i> Recent Blog Posts
 
