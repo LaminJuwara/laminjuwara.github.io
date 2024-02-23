@@ -9,7 +9,7 @@ body{ /* Normal  */
       font-size: 15px;
   }
 td {  /* Table  */
-  font-size: 8px;
+  font-size: 14px;
 }
 h1.title {
   font-size: 20px;
