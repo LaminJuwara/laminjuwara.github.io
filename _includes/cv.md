@@ -1,16 +1,21 @@
 
 #### <i class="fa fa-chevron-right"></i> Short Bio
 
-I'm currently a Postdoc at the CHEO Research Institute, where I work on the applications of machine learning methods for synthetic data generation. I completed my Ph.D. in  [Quantitative Life Sciences](https://www.mcgill.ca/qls/) at McGill University (with concentration on Computational Statistics). During my doctoral studies, I had the privilege of being co-advised by [Dr Paramita Saha-Chaudhuri](https://sites.google.com/site/paramitasaharesearch/) and [Prof Archer Yi Yang](https://www.math.mcgill.ca/yyang/). Prior to that, I completed MSc programs in Biostatistics at McGill and Mathematics at Stellenbosch University.
+I'm a Postdoc at the CHEO Research Institute, where I work on the applications of machine learning methods for synthetic data generation. I completed my Ph.D. in  [Quantitative Life Sciences](https://www.mcgill.ca/qls/) at McGill University, with concentration on Computational Statistics. During my doctoral studies, I had the privilege of being co-advised by [Dr Paramita Saha-Chaudhuri](https://sites.google.com/site/paramitasaharesearch/) and [Prof Archer Yi Yang](https://www.math.mcgill.ca/yyang/). Prior to that, I completed MSc programs in Biostatistics at McGill and Mathematics at Stellenbosch University.
 
-My research interests primarily revolve around the development of novel statistical and computational methodologies for analyzing distributed biomedical data under privacy restrictions. I also have a passion for statistical modeling and its applications to neurology and pain research.
+
+The main areas of my work include:
+
+- Developing statistical and computational methods for analyzing distributed biomedical data under privacy or budget constraints.
+- Designing and evaluating machine learning methods for mitigating covariate bias in real world data and randomized clinical trials.
+- Statistical modeling and its applications to neurology and pain research.
+
 
 
 <table class="table table-hover">
   <tr>
   </tr>
 </table>
-
 
 
 #### <i class="fa fa-chevron-right"></i> News
