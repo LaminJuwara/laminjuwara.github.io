@@ -17,8 +17,8 @@ My research interests primarily revolve around the development of novel statisti
 <table class="table table-hover">
 <tr>
   <td class='col-md-3'>Nov., 2023</td>
-  <td> New methods paper on Privacy-preserving analysis of time-to-event data
-under nested case-control sampling has been accepted at Statistical Methods in Medical Research.</td>
+  <td> New methods paper on <a href='https://journals.sagepub.com/doi/10.1177/09622802231215804'> Privacy-preserving analysis of time-to-event data
+under nested case-control sampling </a> has been accepted at Statistical Methods in Medical Research.</td>
 </tr>
 <tr>
   <td class='col-md-3'>July 2022</td>
@@ -26,7 +26,7 @@ under nested case-control sampling has been accepted at Statistical Methods in M
 </tr>
 <tr>
   <td class='col-md-3'>May 2022</td>
-  <td> Our new methods paper on <a href='https://doi.org/10.1093/jssam/smac013'> Privacy-Preserving Logistic Regression </a> is out.</td>
+  <td> Our methods paper on <a href='https://doi.org/10.1093/jssam/smac013'> Privacy-Preserving Logistic Regression </a> is out.</td>
 </tr>
 <tr>
   <td class='col-md-3'>May 2021</td>
