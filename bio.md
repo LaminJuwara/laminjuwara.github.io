@@ -1,1 +1,8 @@
-I am a Postdoc researcher in data science and privacy at CHEO Research Institute. I completed my PhD in the [Quantitative Life Sciences Program](https://www.mcgill.ca/qls/) at McGill University where I specialized in Computational Statistics and its applications to the life sciences. I was fortunate to be co-advised by [Dr Paramita Saha-Chaudhuri](https://sites.google.com/site/paramitasaharesearch/)(Biostatistics) and [Prof Archer Yi Yang](https://www.math.mcgill.ca/yyang/)(Statistics). My research interest generally lies in developing new statistical and computational methods for analyzing biomedical data in distributed networks without disclosing sensitive information.
+I am a Senior Applied Scientist in Health Data Science at the Government of Manitoba. I lead the portfolio on health and social services. Before joining the civil service, I was a postdoctoral researcher in data science and privacy at the CHEO Research Institute under the mentorship of Prof. Khaled El Emam.  
+
+My research interests focus on developing statistical and computational methods for analyzing biomedical data in distributed networks while preserving data privacy.  
+
+I completed my PhD at [McGill University](https://www.mcgill.ca/qls/), where my doctoral research centered on privacy-preserving regression methods for distributed biomedical data. I had the privilege of being co-advised by [Dr. Paramita Saha-Chaudhuri](https://sites.google.com/site/paramitasaharesearch/) (Biostatistics) and [Prof. Archer Yi Yang](https://www.math.mcgill.ca/yyang/) (Statistics).
+
+
+

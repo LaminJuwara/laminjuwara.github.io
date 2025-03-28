@@ -1,11 +1,15 @@
 
 #### <i class="fa fa-chevron-right"></i> Short Bio
 
-I'm a Postdoc at the CHEO Research Institute, where I work on the applications of machine learning methods for synthetic data generation. I completed my Ph.D. in  [Quantitative Life Sciences](https://www.mcgill.ca/qls/) at McGill University, with concentration on Computational Statistics. During my doctoral studies, I had the privilege of being co-advised by [Dr Paramita Saha-Chaudhuri](https://sites.google.com/site/paramitasaharesearch/) (Biostatistics) and [Prof Archer Yi Yang](https://www.math.mcgill.ca/yyang/) (Statistics). Prior to that, I completed MSc programs in Biostatistics at McGill and Mathematics at Stellenbosch University.
+I am a Senior Applied Scientist in Health Data Science at the Government of Manitoba, where I lead the health and social services portfolio. Before joining the civil service, I was a postdoctoral researcher at the CHEO Research Institute, working on applications of machine learning methods for synthetic data generation under the mentorship of Prof. Khaled El Emam.  
 
+I completed my PhD at [McGill University](https://www.mcgill.ca/qls/), where my doctoral research focused on privacy-preserving regression methods for distributed biomedical data. I had the privilege of being co-advised by [Dr. Paramita Saha-Chaudhuri](https://sites.google.com/site/paramitasaharesearch/) (Biostatistics) and [Prof. Archer Yi Yang](https://www.math.mcgill.ca/yyang/) (Statistics). Prior to that, I completed MSc programs in Biostatistics at McGill University and Mathematics at Stellenbosch University.  
 
-The main areas of my research include: (1) Developing statistical and computational methods for analyzing distributed biomedical data under privacy/budget constraints, (2) Designing and evaluating machine learning methods for mitigating covariate bias in real world data and randomized clinical trials, and (3) Statistical modeling and its applications to neurology and pain research.
+My research interests include:  
 
+- Developing statistical and computational methods for analyzing distributed biomedical data under privacy/budget constraints.  
+- Designing and evaluating machine learning methods for mitigating covariate bias in real-world data and randomized clinical trials.  
+- Statistical modeling and its applications to neurology and pain research.  
 
 
 <table class="table table-hover">
