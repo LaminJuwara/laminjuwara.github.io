@@ -1,7 +1,7 @@
 
 #### <i class="fa fa-chevron-right"></i> Short Bio
 
-I am a Senior Applied Scientist in Health Data Science at the Government of Manitoba, where I lead the health and social services portfolio. Before joining the civil service, I was a postdoctoral researcher at the CHEO Research Institute under the mentorship of Prof. Khaled El Emam. At CHEO, I worked on the applications of machine learning methods for synthetic data generation.  
+I am a Senior Applied Scientist in Health Data Science at the Government of Manitoba where I lead the health and social services portfolio. Before joining the civil service, I was a postdoctoral researcher at the CHEO Research Institute under the mentorship of [Prof. Khaled El Emam](https://www.ehealthinformation.ca/home). At CHEO, I worked on the applications of machine learning methods for synthetic data generation.  
 
 I completed my PhD at [McGill University](https://www.mcgill.ca/qls/), where my doctoral research focused on privacy-preserving regression methods for distributed biomedical data. I had the privilege of being co-advised by [Dr. Paramita Saha-Chaudhuri](https://sites.google.com/site/paramitasaharesearch/) (Biostatistics) and [Prof. Archer Yi Yang](https://www.math.mcgill.ca/yyang/) (Statistics). Prior to that, I completed MSc programs in Biostatistics at McGill University and Mathematics at Stellenbosch University.  
 
