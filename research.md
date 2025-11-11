@@ -33,9 +33,9 @@ pre {
 }
 </style>
 
-## 🔬 Research
+--- 
 
-- [Google Scholar Profile](https://scholar.google.ca/citations?user=XZdVDP0AAAAJ&hl=en)
+## 🔬 Research
 
 ---
 
@@ -52,6 +52,10 @@ pre {
 - **Juwara, L.**, Arora, N., Gornitsky, M., Saha-Chaudhuri, P., & Velly, A. M. (2020). *Identifying predictive factors for neuropathic pain after breast cancer surgery using machine learning*. _International Journal of Medical Informatics_, 104170.
 
 - Cressatti, M., **Juwara, L.**, Galindez, J. M., Velly, A. M., Nkurunziza, E. S., Marier, S., ... & Schipper, H. M. (2020). *Salivary microR‐153 and microR‐223 levels as potential diagnostic biomarkers of idiopathic Parkinson's disease*. _Movement Disorders_, 35(3), 468–477.
+
+---
+
+- 🔬 [Google Scholar Profile](https://scholar.google.ca/citations?user=XZdVDP0AAAAJ&hl=en)
 
 ---
 

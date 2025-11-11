@@ -22,6 +22,10 @@ My research interests include:
 
 <table class="table table-hover">
   <tr>
+    <td class='col-md-3'>July. 2024</td>
+    <td>Next - Joining the Data Science Program at the Government of Manitoba.</td>
+  </tr>
+  <tr>
     <td class='col-md-3'>Nov. 2023</td>
     <td>New methods paper on <a href='https://journals.sagepub.com/doi/10.1177/09622802231215804'>privacy-preserving analysis of time-to-event data under nested case-control sampling</a> has been accepted at *Statistical Methods in Medical Research*.</td>
   </tr>
