@@ -4,37 +4,40 @@ title: "Blog Posts"
 ---
 
 <style type="text/css">
-
-body{ /* Normal  */
-      font-size: 15px;
-  }
-td {  /* Table  */
-  font-size: 14px;
+body {
+  font-size: 16px;
+}
+td {
+  font-size: 8px;
 }
 h1.title {
   font-size: 20px;
   color: DarkRed;
 }
-h1 { /* Header 1 */
+h1 {
   font-size: 20px;
   color: DarkBlue;
 }
-h2 { /* Header 2 */
-    font-size: 20px;
+h2 {
+  font-size: 18px;
 }
-h3 { /* Header 3 */
+h3 {
   font-size: 20px;
   font-family: "Times New Roman", Times, serif;
 }
-code.r{ /* Code block */
-    font-size: 15px;
+code.r {
+  font-size: 16px;
 }
-pre { /* Code block - determines code spacing between lines */
-    font-size: 15px;
+pre {
+  font-size: 16px;
 }
 </style>
 
-###
+--- 
+
+---
+
+
 
 ### Blog Posts
 
